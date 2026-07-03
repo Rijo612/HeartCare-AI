@@ -24,10 +24,11 @@ A Heart Disease Prediction Web Application built using Machine Learning and Stre
 - NumPy
 
 
+<img width="1917" height="1038" alt="1" src="https://github.com/user-attachments/assets/a324b8b3-1550-4d1e-9e45-a89f6586ae0d" />
+<img width="1907" height="1037" alt="2" src="https://github.com/user-attachments/assets/d1f051bf-2e13-4c8c-bb45-d0331bb906ee" />
+<img width="1903" height="1026" alt="3" src="https://github.com/user-attachments/assets/1ad5cc47-cbd9-4579-8015-f7e0e7c03192" />
+<img width="1905" height="1028" alt="4" src="https://github.com/user-attachments/assets/9d9d6046-6e20-40eb-abee-b84610f7bb27" />
+<img width="1907" height="1032" alt="5" src="https://github.com/user-attachments/assets/3d87c9f3-0643-4e33-8e64-49b83841344a" />
 
-<img width="1907" height="1032" alt="1" src="https://github.com/user-attachments/assets/f7be6d15-d54a-4202-ad59-96436ed66f84" />
-<img width="1905" height="1028" alt="2" src="https://github.com/user-attachments/assets/5e3c711c-e812-4941-9a0d-0a2881a148d1" />
-<img width="1903" height="1026" alt="3" src="https://github.com/user-attachments/assets/7325e6d3-e76e-4430-ac32-2966b1bdf359" />
-<img width="1907" height="1037" alt="4" src="https://github.com/user-attachments/assets/c6aaa45e-6a0d-400a-96b7-e0e5ec4b3e7a" />
-<img width="1917" height="1038" alt="5" src="https://github.com/user-attachments/assets/672f0474-6eba-4a89-bc98-afb92cc1cbaf" />
+
 
